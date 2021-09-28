@@ -1,0 +1,7 @@
+src/TestApp/
+.idea/
+/src/.idea/
+src/Storage/obj/
+src/Storage/bin/
+src/TestApp/appsettings.json.local
+src/Storage/Debug
